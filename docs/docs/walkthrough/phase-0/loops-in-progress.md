@@ -36,3 +36,4 @@ List of people who are working on closed loops:
 - Ryan Chen
 - Katherine Mason
 - Garrett Webb (Dallas, TX)
+- Orla Wilson (Baltimore, MD)
